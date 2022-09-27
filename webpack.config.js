@@ -9,7 +9,7 @@ module.exports = {
     'js/app': ['./src/App.jsx'],
   },
   output: {
-    path: path.resolve(__dirname, 'dist/'),
+    path: path.resolve(__dirname, 'docs/'),
     publicPath: '/',
   },
   module: {
